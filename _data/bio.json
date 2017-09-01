@@ -2,10 +2,10 @@
   "basics": {
     "name": "Nolan Laranio",
     "label": "Student - Educator",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://techfolios.github.io/template/images/profile.png",
+    "email": "nlaranio@hawaii.edu",
+    "phone": "",
+    "website": "https://nlaranio.github.io",
     "summary": "Studying Computer Science at University of Hawaii at Manoa, and working as an administrator and educator",
     "location": {
       "address": "",
