@@ -1,15 +1,15 @@
 ----
- -layout: project
- -type: project
- -image: images/micromouse.jpg
- -title: EZGif
- -permalink: projects/EZGif
- -date: 2017
- -labels:
- -  - EZJava
- -  - Animation
- -  - Java
- -summary: A tool for use with EZJava to quickly and easily create GIF style animations.
+layout: project
+type: project
+image: images/micromouse.jpg
+title: EZGif
+permalink: projects/EZGif
+date: 2017
+labels:
+ - EZJava
+ - Animation
+ - Java
+summary: A tool for use with EZJava to quickly and easily create GIF style animations.
 ----
  
  EZJava is an extraordinarilly useful tool for beginners to Java to easily make graphical applications. It supports .png
