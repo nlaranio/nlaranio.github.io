@@ -38,7 +38,10 @@ labels:
 
 ### Tip 3: Help people help you.
 
-  Be kind, be brief, be concise. 
+  If your question hasn't been answered already it's time to ask; when you do make sure to
+  be kind, be clear, be brief. Make sure that your title gets at what you're trying to ask
+  about, what helps here is to really understand the problem you're having; this ties back
+  the first tip. For example, instead of asking 
   
     A Good Question
 
