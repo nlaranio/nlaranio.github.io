@@ -8,4 +8,8 @@ labels:
   - Help
 ---
 
-## A Good Question
+## The importance of being good at asking questions
+
+### A Good Question
+
+### A Bad Question
