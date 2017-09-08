@@ -49,17 +49,17 @@ labels:
   
 ### Examples:
 
-   A Good Question
-   
-    https://stackoverflow.com/questions/46109938/development-mode-error-while-deploying-an-mvc-asp-net-core-1-1-2-web-application
-    This person has a specific question and talks about the problem they are running in to
-    as well as what they want the program to do. As a nice touch they even link to the website
-    they are trying to build itself so have an idea of what it's supposed to be like.
-    
-   A Bad Question
-   
-    https://stackoverflow.com/questions/46109942/c-sharp-condition-check-using-try-catch
-    This is I would say is a bad question because it is a lazy question. Although this person
-    did get their answer, it is obvious that they didn't look around first. It also shows in
-    their typo's,  not even bothering to capitalize the "i". Suffice to say they could have
-    just looked up "try catch" and read about it without asking this question.
+  - A Good Question
+  
+  https://stackoverflow.com/questions/46109938/development-mode-error-while-deploying-an-mvc-asp-net-core-1-1-2-web-application
+  This person has a specific question and talks about the problem they are running in to
+  as well as what they want the program to do. As a nice touch they even link to the website
+  they are trying to build itself so have an idea of what it's supposed to be like.
+  
+  - A Bad Question
+  
+  https://stackoverflow.com/questions/46109942/c-sharp-condition-check-using-try-catch
+  This is I would say is a bad question because it is a lazy question. Although this person
+  did get their answer, it is obvious that they didn't look around first. It also shows in
+  their typo's,  not even bothering to capitalize the "i". Suffice to say they could have
+  just looked up "try catch" and read about it without asking this question.
