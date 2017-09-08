@@ -57,7 +57,7 @@ labels:
   
   - A [BAD](https://stackoverflow.com/questions/46109942/c-sharp-condition-check-using-try-catch) question
 
-  This is I would say is a bad question because it is a lazy question. Although this person
+  This is, I would say, is a bad question because it is a lazy question. Although this person
   did get their answer, it is obvious that they didn't look around first. It also shows in
   their typo's,  not even bothering to capitalize the "i". Suffice to say they could have
   just looked up "try catch" and read about it without asking this question.
