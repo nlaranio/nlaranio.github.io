@@ -28,7 +28,7 @@ labels:
 ### Tip 2: Know where to ask.
 
   This is more for yourself; it will help you get the right information more quickly. If its a
-  general programming or software question, places like http://stackoverflow.com/questions might
+  general programming or software question, places like [Stackoverflow](http://stackoverflow.com/questions) might
   be a great place. If you're working with a specific piece of hardware or software, maybe 
   there's a forum for that specific thing (there often is). When you manage to find the right
   place make sure you search around to see if your question or a variation of it has already
@@ -49,16 +49,14 @@ labels:
   
 ### Examples:
 
-  - A Good Question
+  - A [GOOD](https://stackoverflow.com/questions/46109938/development-mode-error-while-deploying-an-mvc-asp-net-core-1-1-2-web-application) question
 
-  https://stackoverflow.com/questions/46109938/development-mode-error-while-deploying-an-mvc-asp-net-core-1-1-2-web-application
   This person has a specific question and talks about the problem they are running in to
   as well as what they want the program to do. As a nice touch they even link to the website
   they are trying to build itself so have an idea of what it's supposed to be like.
   
-  - A Bad Question
+  - A [BAD](https://stackoverflow.com/questions/46109942/c-sharp-condition-check-using-try-catch) question
 
-  https://stackoverflow.com/questions/46109942/c-sharp-condition-check-using-try-catch
   This is I would say is a bad question because it is a lazy question. Although this person
   did get their answer, it is obvious that they didn't look around first. It also shows in
   their typo's,  not even bothering to capitalize the "i". Suffice to say they could have
