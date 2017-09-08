@@ -10,10 +10,23 @@ labels:
 
 ## The importance of being good at asking questions
   
-   If you've found yourself staring at the same 5 lines of code and wanting to smash your head
+  If you've found yourself staring at the same 5 lines of code and wanting to smash your head
   with keyboard, chances are you've had to ask for help on some aspect of programming. Failure
-  is key to learning 
+  is key to learning, but sometimes we all need a helping hand; however, it's important to know
+  when, where, and how to ask.
   
-### A Good Question
+### Tip 1: Fail
 
-### A Bad Question
+  No matter your job this is important, but especially so for programmers. If you run try to
+  compile something and it won't run properly, or has errors and won't even compile, do
+  everyone (yourself included) a favor and try to fix it yourself. If that doesn't work,
+  try again, and again, and again, until you think it's impossible. when asking for help it's
+  quite easy to tell when you haven't even tried to fix it. For many reasons this is terrible,
+  not least of which that you probably won't care to remember how to do fix it when you're shown.
+  As well, you really don't want to be the person who people think can't do anything for themself.
+  
+### Tip 2: 
+  
+    A Good Question
+
+    A Bad Question
