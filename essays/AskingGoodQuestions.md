@@ -40,8 +40,12 @@ labels:
 
   If your question hasn't been answered already it's time to ask; when you do make sure to
   be kind, be clear, be brief. Make sure that your title gets at what you're trying to ask
-  about, what helps here is to really understand the problem you're having; this ties back
-  the first tip. For example, instead of asking 
+  about, what helps here is to really understand the problem you're having; this ties back the
+  first tip. For example, instead of asking someone to get rid of the error in your code,
+  understand that it's a pointer problem and ask about pointers. Make sure you explain your
+  objective or goal as well, otherwise people may give an answer that ends up doing something
+  different than intended. Lastly Background information always helps, don't be afraid to show
+  off that code!
   
     A Good Question
 
