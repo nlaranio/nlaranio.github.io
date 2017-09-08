@@ -30,11 +30,13 @@ labels:
   This is more for yourself; it will help you get the right information more quickly. If its a
   general programming or software question, places like http://stackoverflow.com/questions might
   be a great place. If you're working with a specific piece of hardware or software, maybe 
-  there's a forum for that specific thing, 
-  
-  
+  there's a forum for that specific thing (there often is). When you manage to find the right
+  place make sure you search around to see if your question or a variation of it has already
+  been answered. If you find it and it has an answer, great! You get your answer instantly.
+  It also helps keep the places tidy and organized to help people find the information they
+  need without sifting through they same repetitive questions.
 
-### Tip 3: Help people help you.'
+### Tip 3: Help people help you.
 
   Be kind, be brief, be concise. 
   
