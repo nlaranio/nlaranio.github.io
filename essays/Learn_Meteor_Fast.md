@@ -22,4 +22,5 @@ labels:
   This if just an unfortunate outcome as I definitely want to understand more of the use of Meteor and how
   to implement it in an app or site I can download/visit. I get that we will probably be doing exactly that
   for projects in our ICS class but it will be with such a weak grasp on the framework. It seems like such
-  a cool idea that I can build a version of the client-server connection 
+  a cool idea that I can build a version of the client-server connection. As someone who really prefers
+  database and back-end work as opposed to front-end I really want to enjoy learning Meteor.
