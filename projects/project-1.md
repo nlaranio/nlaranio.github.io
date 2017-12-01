@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: EZGif
-permalink: projects/EZGif
+permalink: projects/ezgif
 date: 2017
 labels:
  - EZJava
