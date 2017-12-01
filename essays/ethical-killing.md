@@ -24,6 +24,6 @@ as engineers to "avoid harm to others" ([ACM Code of Ethics](https://www.acm.org
 seems to be to "act consistently with the public interest" ([IEEE Code of Ethics](https://www.computer.org/web/education/code-of-ethics)) which is a train of ethical thought most
 synonymous with utilitarianism. Utilitarionism is the ethical approach with the idea of doing the most good, or least harm.
 
- An interesting obligation to play out in our quest for autonomous vehicles is the obligation to "Ensure that users and those who will be affected by a system have their needs clearly articulated during the assessment and design of requirements; later the system must be validated to meet requirements."
+ An interesting obligation to play out in our quest for autonomous vehicles is the obligation to "Ensure that users and those who will be affected by a system have their needs clearly articulated during the assessment and design of requirements; later the system must be validated to meet requirements"([ACM Code of Ethics](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)). We can look at the people hit by the trolley, in our case people affected by our system. Did they have a say in the assessment or design? Probably not, yet it affected them severely.
 
 
