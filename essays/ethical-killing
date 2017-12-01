@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: "Ethical Killing: Programming Autonomous Vehicles"
+date: 2017-11-29
+labels:
+  - Software Engineering
+  - Ethics
+  - Autonomous Vehicles
+---
+
+### Meteor: Uncaught RangeError: Maximum call stack size exceeded
+
+This is to remedy the Meteor error;
+
+### hasStacks = !!e.stack;
+![trolleyimage](https://en.wikipedia.org/wiki/Trolley_problem#/media/File:Trolley_problem.png)
+### RangeError: Maximum call stack size exceeded
