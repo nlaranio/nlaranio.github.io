@@ -21,5 +21,9 @@ person you see on that side track will surely perish. What do you do?
   This question has become more pertinent as the development of autonomous vehicles is exploding, and accidents
 are inevitable. Unfortunately the problem arises that at some points we may be forced to violate our obligation
 as engineers to "avoid harm to others" ([ACM Code of Ethics](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)), but is there an ethical way to do that? One of the most prevalent arguements
+seems to be to "act consistently with the public interest" ([IEEE Code of Ethics](https://www.computer.org/web/education/code-of-ethics)) which is a train of ethical thought most
+synonymous with utilitarianism. Utilitarionism is the ethical approach with the idea of doing the most good, or least harm.
+
+ An interesting obligation to play out in our quest for autonomous vehicles is the obligation to "Ensure that users and those who will be affected by a system have their needs clearly articulated during the assessment and design of requirements; later the system must be validated to meet requirements."
 
 
