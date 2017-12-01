@@ -19,6 +19,7 @@ where you see several people, who if hit, would surely perish. If you choose to 
 person you see on that side track will surely perish. What do you do?
 
   This question has become more pertinent as the development of autonomous vehicles is exploding, and accidents
-are inevitable. 
+are inevitable. Unfortunately the problem arises that at some points we may be forced to violate our obligation
+as engineers to "avoid harm to others" ([ACM Code of Ethics](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)), but is there an ethical way to do that? One of the most prevalent arguements
 
 
