@@ -14,5 +14,6 @@ labels:
 This is to remedy the Meteor error;
 
 ### hasStacks = !!e.stack;
-![trolleyimage](https://en.wikipedia.org/wiki/Trolley_problem#/media/File:Trolley_problem.png)
+<img class="ui medium left floated image" src="https://en.wikipedia.org/wiki/Trolley_problem#/media/File:Trolley_problem.png">
+
 ### RangeError: Maximum call stack size exceeded
