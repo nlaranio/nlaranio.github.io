@@ -24,6 +24,7 @@ EZGif is meant as a plugin to the useful java beginner tool EZJava (now EZGraphi
 
 #### Usage
 EZGif uses the EZJava framework, so EZJava is required. it can be found [here](http://www2.hawaii.edu/~dylank/ics111/).
+You will also need EZGif found [here](http://github.com/nlaranio/ezgif/).
 Most of EZGif is just formatting; the constructor takes in two strings as arguments when making an EZGif object, first is the file name, second is the gif name. For the sample that file would be "gifs.txt" and the gif name would be "STAR."
 
 Sample file given (gifs.txt):
@@ -46,6 +47,9 @@ STAR
   <li>Only .png files are supported</li>
 </ul>
 
+If everything runs properly for the sample you should see an animation in your EZJava window that looks like this:
+<iframe src="https://giphy.com/embed/3o6fIYvQ3XZFvr3nK8" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 multiple gifs can be put in one file and the format would be as follows.
 ```
 STAR
@@ -65,8 +69,4 @@ CIRCLE
 ```
 
 For current documentation on available modifier functions (such as time and movement) please refer to the code documentation.
-
-If everything runs properly for the sample you should see an animation in your EZJava window that looks like this:
-<iframe src="https://giphy.com/embed/3o6fIYvQ3XZFvr3nK8" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- 
 
