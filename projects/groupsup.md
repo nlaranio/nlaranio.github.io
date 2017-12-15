@@ -21,5 +21,6 @@ summary: An application for students at UH to find clubs they are interested in.
 * [My Role](#my-role)
 * [Takeaways](#takeaways)
 
+![database profile]()/images/database-profile.png)
 
 Learn more at [GroupsUp](https://groupsup.github.io)
