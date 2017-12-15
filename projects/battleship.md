@@ -33,6 +33,6 @@ My role in the group was to develop the grid and all of its assets;
 </ul>  
 
 Here is an image of our pre-development design:
-![battleship board](/images/Battelship.png)
+![battleship board](/images/Battelship-Game.png)
 
 [Battleship](https://drive.google.com/open?id=1O6GzvBqtqb3qP90XlbRyO4JCSx5FweIa)
