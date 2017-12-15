@@ -14,6 +14,12 @@ labels:
 summary: A tool for use with EZJava to quickly and easily create GIF style animations.
 ---
  
+ ### Table of contents
+
+* [Overview: GroupsUp](#overview-of-groupsup)
+* [My Role](#my-role)
+* [Takeaways](#takeaways)
+ 
  http://www2.hawaii.edu/~dylank/ics111/
  
  EZJava is an extraordinarilly useful tool for beginners to Java to easily make graphical applications. It supports .png
