@@ -28,4 +28,18 @@ GroupsUp is an app designed as a group project for ICS314. Our goal as a group w
 On the team my role was to design the web page theme; colors and logo, code multiple page layouts, set up the routing assets, and connect pages to the database. A prime example of my work is the profile page which I did all of the previously stated tasks. Beyond that, I played a major part in communications and divvying up work.
 ![database profile](/images/database-profile.png)
 
+#### Takeaways
+This project taught me a lot; even if the project didn't get to a point we planned.
+ * Practicing version control using Github.
+ * Mapping project development using 'issues'.
+ * Learning various frameworks.
+   * Semantic UI
+   * Meteor
+   * Flowrouter
+   * Simple Schema
+ * Practice design that looks good and is functional.
+ * Database design and implementation.
+ 
+ All of these I knew a little about from before but putting them all together in self created deadlines and functionality was a large step. 
+
 
