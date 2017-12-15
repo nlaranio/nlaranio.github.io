@@ -43,6 +43,6 @@ This project taught me a lot; even if the project didn't get to a point we plann
  * Practice design that looks good and is functional.
  * Database design and implementation.
  
- All of these I knew a little about from before but putting them all together in self created deadlines and functionality was a large step. 
+ All of these I knew a little about from before but putting them all together in self created deadlines and functionality was a large step. Personally I am very happy that I am far more comfortable with using GitHub as I know it is an invaluable tool used all over. As well I am proud, and feel accomplished for designing and creating a website that can be visited.
 
 
