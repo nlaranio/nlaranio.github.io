@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Star1.png
 title: EZGif
 permalink: projects/ezgif
 date: 2017
