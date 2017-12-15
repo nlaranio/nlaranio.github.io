@@ -235,3 +235,4 @@ class Cell{
 Battleship uses the EZJava framework and which this zipped version of the game comes with. You will also need to install java if you haven't already. The game itself can be found [here](https://drive.google.com/open?id=1O6GzvBqtqb3qP90XlbRyO4JCSx5FweIa). When you unzip make sure to maintain the content structure as it is in the zipped file.
 
 This version comes with a precompiled jar executable, if your system can run those you an just double click the 'battleship.jar' file in the 'classes' folder. Otherwise you can compile the program in command line using javac and run it.
+
