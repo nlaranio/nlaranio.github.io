@@ -32,6 +32,9 @@ My role in the group was to develop the grid and all of its assets;
  <li>Main menu</li>
 </ul>  
 
+<img height="450" width="670" src="/images/database-profile.png">
+
+
 An image of our pre-development design:
 <img src="/images/Battelship-Game.png">
 
