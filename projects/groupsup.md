@@ -26,10 +26,10 @@ GroupsUp is an app designed as a group project for ICS314. Our goal as a group w
 On the team my role was to design the web page theme; colors and logo, code multiple page layouts, set up the routing assets, and connect pages to the database. A prime example of my work is the profile page which I did all of the previously stated tasks. Beyond that, I played a major part in communications and divvying up work.
 
 Profile page designed and attached to the database by me:
-<img height="400" width="800" src="/images/database-profile.png">
+<img height="500" width="600" src="/images/database-profile.png">
 
 Another page designed by me:
-![group page](/images/Group_v2.0.png)
+<img height="500" width="600" src="/images/Group_v2.0.png">
 
 #### Takeaways
 This project taught me a lot; even if the project didn't get to a point we planned.
