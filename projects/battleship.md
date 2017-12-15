@@ -33,7 +33,6 @@ My role in the group was to develop the grid and all of its assets;
 </ul>  
 
 Our pre development design
-<img float="left" src="/images/Battleship-Game.png">
 
 ![battleship](/images/Battleship-Game.png)
 
