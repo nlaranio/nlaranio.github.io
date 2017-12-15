@@ -32,11 +32,9 @@ My role in the group was to develop the grid and all of its assets;
  <li>Main menu</li>
 </ul>  
 
-<img height="450" width="670" src="/images/Battleship-Game.png">
+Our pre development design
+<img src="/images/Battleship-Game.png">
 
-
-An image of our pre-development design:
-<img src="/images/Battelship-Game.png">
 
 My source code for the board.
 ```
