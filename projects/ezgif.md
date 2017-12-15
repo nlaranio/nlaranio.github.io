@@ -24,11 +24,49 @@ EZGif is meant as a plugin to the useful java beginner tool EZJava (now EZGraphi
 
 #### Usage
 EZGif uses the EZJava framework, so EZJava is required. it can be found [here](http://www2.hawaii.edu/~dylank/ics111/).
+Most of EZGif is just formatting; the constructor takes in two strings as arguments when making an EZGif object, first is the file name, second is the gif name. For the sample that file would be "gifs.txt" and the gif name would be "STAR."
 
+Sample file given (gifs.txt):
+```
+STAR
+star1.png
+star2.png
+star3.png
+star4.png
+star5.png
+star6.png
+star7.png
+STAR
+```
 
+<ul>
+  <li>The file names are the path to the file</li>
+  <li>No spaces or blank lines are allowed</li>
+  <li>Only one file per line can be read</li>
+  <li>Only .png files are supported</li>
+</ul>
+
+multiple gifs can be put in one file and the format would be as follows.
+```
+STAR
+star1.png
+star2.png
+star3.png
+star4.png
+star5.png
+star6.png
+star7.png
+STAR
+CIRCLE
+path/circle1.png
+path/circle2.png
+path/circle3.png
+CIRCLE
+```
+
+For current documentation on available modifier functions (such as time and movement) please refer to the code documentation.
+
+If everything runs properly for the sample you should see an animation in your EZJava window that looks like this:
 <iframe src="https://giphy.com/embed/3o6fIYvQ3XZFvr3nK8" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  
- EZJava is an extraordinarilly useful tool for beginners to Java to easily make graphical applications. It supports .png
- image files which is useful, but to make animations with them it can be tedious. EZGif helped remedy that by using the
- Existing API of EZjava and its support of .png images to allowa series of images to be animated easily.The 
- implementation and use requires an images which will be shown in sequence named in order ex. star1, star2, star3... etc.
+
