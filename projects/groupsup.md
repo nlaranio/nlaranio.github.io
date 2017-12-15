@@ -12,3 +12,14 @@ labels:
  - Meteor
 summary: An application for students at UH to find clubs they are interested in.
 ---
+
+## GroupsUp
+
+# Table of contents
+
+* [Overview: GroupsUp](#overview-of-groupsup)
+* [My Role](#my-role)
+* [Takeaways](#takeaways)
+
+
+Learn more at [GroupsUp](https://groupsup.github.io)
